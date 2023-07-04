@@ -18,7 +18,7 @@
 					<Add option="-m32" />
 					<Add option="-g" />
 					<Add option="-nostdlib" />
-					<Add directory="D:/Everything CB/Libpng/Libpng" />
+					<Add directory="./Lodepng" />
 				</Compiler>
 				<Linker>
 					<Add option="-m32" />
@@ -27,7 +27,7 @@
 					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libuser32.a" />
 					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libopengl32.a" />
 					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libgdi32.a" />
-					<Add library="D:/Everything CB/Libpng/Libpng/bin/Debug/LodePng.lib" />
+					<Add library="./LodePng/Debug/LodePng.lib" />
 					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libmsvcr71.a" />
 					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libshell32.a" />
 				</Linker>
@@ -44,8 +44,8 @@
 					<Add option="/Ox" />
 					<Add option="/W3" />
 					<Add option='/permissive- /GS /TC /analyze- /W3 /Zc:wchar_t /Gm- /O2 /Fd&quot;Debug\vc142.pdb&quot; /Zc:inline /D &quot;_UNICODE&quot; /D &quot;UNICODE&quot; /fp:except- /errorReport:prompt /WX- /Zc:forScope /GR- /Gd /Oy- /MT /FC /nologo  /diagnostics:column' />
-					<Add directory="D:/Everything CB/GameIntro" />
-					<Add directory="D:/Everything CB/Libpng/Libpng" />
+					<Add directory="." />
+					<Add directory="./Lodepng" />
 				</Compiler>
 				<Linker>
 					<Add library="kernel32" />
@@ -53,7 +53,7 @@
 					<Add library="OpenGL32" />
 					<Add library="Gdi32" />
 					<Add library="shell32" />
-					<Add library="D:/Everything CB/Libpng/Libpng/bin/Test/LodePng.lib" />
+					<Add library="./Lodepng/Test/LodePng.lib" />
 				</Linker>
 			</Target>
 			<Target title="Third">

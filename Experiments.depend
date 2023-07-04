@@ -820,3 +820,54 @@
 1566476123 d:\everything cb\gameintro\gl\wglext.h
 	<windows.h>
 
+1585656119 source:d:\personal\everything programming\everything code\everything cb\gameintro\camera.c
+	"Camera.h"
+	<math.h>
+
+1583510855 d:\personal\everything programming\everything code\everything cb\gameintro\camera.h
+
+1575749064 source:d:\personal\everything programming\everything code\everything cb\gameintro\icon.rc
+
+1653149490 source:d:\personal\everything programming\everything code\everything cb\gameintro\intro.c
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	"Intro.h"
+	<math.h>
+	<stdlib.h>
+	<lodepng.h>
+	"Camera.h"
+
+1576091900 d:\personal\everything programming\everything code\everything cb\gameintro\gl\glcorearb.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1576087460 d:\personal\everything programming\everything code\everything cb\gameintro\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1566476123 d:\personal\everything programming\everything code\everything cb\gameintro\gl\wglext.h
+	<windows.h>
+
+1584904461 d:\personal\everything programming\everything code\everything cb\gameintro\intro.h
+
+1581707380 d:\personal\everything programming\everything code\everything cb\gameintro\lodepng\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1653149439 source:d:\personal\everything programming\everything code\everything cb\gameintro\main.c
+	<windows.h>
+	<windowsx.h>
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	<math.h>
+	"main.h"
+	"Camera.h"
+	<shellapi.h>
+
+1585654825 d:\personal\everything programming\everything code\everything cb\gameintro\main.h
+
