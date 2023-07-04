@@ -1,0 +1,822 @@
+# depslib dependency file v1.0
+1585654456 source:d:\everything cb\experiments\main.c
+	<windows.h>
+	<windowsx.h>
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	<math.h>
+	<main.h>
+	<Camera.h>
+	<shellapi.h>
+
+1575749064 source:d:\everything cb\experiments\icon.rc
+
+1580238098 d:\everything cb\experiments\contents.h
+
+1584905235 source:d:\everything cb\experiments\intro.c
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	<Intro.h>
+	<math.h>
+	<stdlib.h>
+	<lodepng.h>
+	<Camera.h>
+
+1585654825 d:\everything cb\experiments\main.h
+
+1584904461 d:\everything cb\experiments\intro.h
+
+1582396673 source:d:\everything cb\experiments\camera.c
+	<Camera.h>
+	<math.h>
+
+1583510855 d:\everything cb\experiments\camera.h
+
+1581707380 d:\everything cb\libpng\libpng\lodepng.h
+	<string.h>
+	<vector>
+	<string>
+	"lodepng.h"
+	<iostream>
+	"lodepng.h"
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vector
+	<yvals_core.h>
+	<xmemory>
+	<xpolymorphic_allocator.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\yvals_core.h
+	<vcruntime.h>
+	<xkeycheck.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vcruntime.h
+	<sal.h>
+	<vadefs.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\sal.h
+	"CodeAnalysis/sourceannotations.h"
+	<concurrencysal.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\codeanalysis\sourceannotations.h
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\concurrencysal.h
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vadefs.h
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xkeycheck.h
+	<yvals_core.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xmemory
+	<yvals_core.h>
+	<cstdint>
+	<cstdlib>
+	<limits>
+	<new>
+	<xatomic.h>
+	<xutility>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cstdint
+	<yvals.h>
+	<stdint.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\yvals.h
+	<yvals_core.h>
+	<crtdbg.h>
+	<crtdefs.h>
+	<use_ansi.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\crtdefs.h
+	<vcruntime.h>
+	<corecrt.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\use_ansi.h
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\stdint.h
+	<vcruntime.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cstdlib
+	<yvals_core.h>
+	<math.h>
+	<stdlib.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\limits
+	<yvals_core.h>
+	<cfloat>
+	<climits>
+	<cwchar>
+	<xstddef>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cfloat
+	<yvals_core.h>
+	<float.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\climits
+	<yvals_core.h>
+	<limits.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\limits.h
+	<vcruntime.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cwchar
+	<yvals_core.h>
+	<cstdio>
+	<wchar.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cstdio
+	<yvals_core.h>
+	<stdio.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xstddef
+	<yvals_core.h>
+	<cstddef>
+	<cstdlib>
+	<initializer_list>
+	<xtr1common>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cstddef
+	<yvals_core.h>
+	<stddef.h>
+	<xtr1common>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xtr1common
+	<yvals_core.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\initializer_list
+	<yvals_core.h>
+	<cstddef>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\new
+	<yvals_core.h>
+	<exception>
+	<vcruntime_new.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\exception
+	<yvals.h>
+	<type_traits>
+	<malloc.h>
+	<vcruntime_exception.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\type_traits
+	<yvals_core.h>
+	<xstddef>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vcruntime_exception.h
+	<eh.h>
+	<vcruntime_new.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\eh.h
+	<corecrt_terminate.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vcruntime_new.h
+	<vcruntime.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xatomic.h
+	<yvals.h>
+	<intrin0.h>
+	<type_traits>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\intrin0.h
+	<vcruntime.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xutility
+	<yvals.h>
+	<climits>
+	<cstdlib>
+	<cstring>
+	<utility>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cstring
+	<yvals.h>
+	<string.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\utility
+	<yvals_core.h>
+	<type_traits>
+	<xstddef>
+	<concepts>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\concepts
+	<yvals_core.h>
+	<type_traits>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xpolymorphic_allocator.h
+	<yvals_core.h>
+	<tuple>
+	<type_traits>
+	<utility>
+	<xmemory>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\tuple
+	<yvals_core.h>
+	<new>
+	<type_traits>
+	<xutility>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\string
+	<yvals_core.h>
+	<xstring>
+	<cctype>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xstring
+	<yvals_core.h>
+	<iosfwd>
+	<xmemory>
+	<xpolymorphic_allocator.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\iosfwd
+	<yvals.h>
+	<cstdio>
+	<cstring>
+	<cwchar>
+	<xstddef>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cctype
+	<yvals.h>
+	<ctype.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\iostream
+	<yvals_core.h>
+	<istream>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\istream
+	<yvals_core.h>
+	<ostream>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\ostream
+	<yvals_core.h>
+	<ios>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\ios
+	<yvals_core.h>
+	<xlocnum>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xlocnum
+	<yvals_core.h>
+	<climits>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<streambuf>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cmath
+	<yvals.h>
+	<cstdlib>
+	<xtgmath.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xtgmath.h
+	<yvals.h>
+	<cstdlib>
+	<xtr1common>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\streambuf
+	<yvals_core.h>
+	<xiosbase>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xiosbase
+	<yvals_core.h>
+	<share.h>
+	<system_error>
+	<xlocale>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\system_error
+	<yvals_core.h>
+	<cerrno>
+	<cstdlib>
+	<stdexcept>
+	<xcall_once.h>
+	<xerrc.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\cerrno
+	<yvals.h>
+	<errno.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\stdexcept
+	<yvals_core.h>
+	<exception>
+	<xstring>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xcall_once.h
+	<yvals.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xerrc.h
+	<yvals.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xlocale
+	<yvals_core.h>
+	<climits>
+	<cstring>
+	<memory>
+	<typeinfo>
+	<xfacet>
+	<xlocinfo>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\memory
+	<yvals_core.h>
+	<exception>
+	<iosfwd>
+	<type_traits>
+	<typeinfo>
+	<xmemory>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\typeinfo
+	<yvals_core.h>
+	<exception>
+	<vcruntime_typeinfo.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\vcruntime_typeinfo.h
+	<vcruntime.h>
+	<vcruntime_exception.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xfacet
+	<yvals.h>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xlocinfo
+	<yvals_core.h>
+	<cstdlib>
+	<xlocinfo.h>
+	<xstddef>
+	<xstring>
+
+1576694266 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.24.28314\include\xlocinfo.h
+	<yvals.h>
+	<ctype.h>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+
+1575749064 source:d:\everything cb\gameintro\icon.rc
+
+1653149439 source:d:\everything cb\gameintro\main.c
+	<windows.h>
+	<windowsx.h>
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	<math.h>
+	"main.h"
+	"Camera.h"
+	<shellapi.h>
+
+1585654825 d:\everything cb\gameintro\main.h
+
+1583510855 d:\everything cb\gameintro\camera.h
+
+1585656119 source:d:\everything cb\gameintro\camera.c
+	"Camera.h"
+	<math.h>
+
+1653149490 source:d:\everything cb\gameintro\intro.c
+	<GL/glcorearb.h>
+	<GL/wglext.h>
+	"Intro.h"
+	<math.h>
+	<stdlib.h>
+	<lodepng.h>
+	"Camera.h"
+
+1584904461 d:\everything cb\gameintro\intro.h
+
+1576091900 d:\everything cb\gameintro\\gl\glcorearb.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1576087460 d:\everything cb\gameintro\\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\stdint.h
+	<vcruntime.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vcruntime.h
+	<sal.h>
+	<vadefs.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\sal.h
+	"CodeAnalysis/sourceannotations.h"
+	<concurrencysal.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\codeanalysis\sourceannotations.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\concurrencysal.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vadefs.h
+
+1566476123 d:\everything cb\gameintro\\gl\wglext.h
+	<windows.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vector
+	<yvals_core.h>
+	<xmemory>
+	<xpolymorphic_allocator.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\yvals_core.h
+	<vcruntime.h>
+	<xkeycheck.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xkeycheck.h
+	<yvals_core.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xmemory
+	<yvals_core.h>
+	<cstdint>
+	<cstdlib>
+	<limits>
+	<new>
+	<xatomic.h>
+	<xutility>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cstdint
+	<yvals.h>
+	<stdint.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\yvals.h
+	<yvals_core.h>
+	<crtdbg.h>
+	<crtdefs.h>
+	<use_ansi.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\crtdefs.h
+	<vcruntime.h>
+	<corecrt.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\use_ansi.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cstdlib
+	<yvals_core.h>
+	<math.h>
+	<stdlib.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\limits
+	<yvals_core.h>
+	<cfloat>
+	<climits>
+	<cwchar>
+	<intrin0.h>
+	<isa_availability.h>
+	<xstddef>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cfloat
+	<yvals_core.h>
+	<float.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\climits
+	<yvals_core.h>
+	<limits.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\limits.h
+	<vcruntime.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cwchar
+	<yvals_core.h>
+	<cstdio>
+	<wchar.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cstdio
+	<yvals_core.h>
+	<stdio.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\intrin0.h
+	<intrin.h>
+	<vcruntime.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\intrin.h
+	<vcruntime.h>
+	<intrin0.h>
+	<setjmp.h>
+	<stdint.h>
+	<immintrin.h>
+	<ammintrin.h>
+	<mm3dnow.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\setjmp.h
+	<vcruntime.h>
+	<setjmpex.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\setjmpex.h
+	<setjmp.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\immintrin.h
+	<wmmintrin.h>
+	<zmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\wmmintrin.h
+	<nmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\nmmintrin.h
+	<smmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\smmintrin.h
+	<tmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\tmmintrin.h
+	<pmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\pmmintrin.h
+	<emmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\emmintrin.h
+	<xmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xmmintrin.h
+	<mmintrin.h>
+	"xmm_func.h"
+	<malloc.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\mmintrin.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\zmmintrin.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\ammintrin.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\mm3dnow.h
+	<vcruntime.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\armintr.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\arm_neon.h
+	<arm64_neon.h>
+	<stdint.h>
+	<sal.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\arm64_neon.h
+	<stdint.h>
+	<sal.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\arm64intr.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\isa_availability.h
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xstddef
+	<yvals_core.h>
+	<cstddef>
+	<cstdlib>
+	<initializer_list>
+	<xtr1common>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cstddef
+	<yvals_core.h>
+	<stddef.h>
+	<xtr1common>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xtr1common
+	<yvals_core.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\initializer_list
+	<yvals_core.h>
+	<cstddef>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\new
+	<yvals_core.h>
+	<exception>
+	<vcruntime_new.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\exception
+	<yvals.h>
+	<type_traits>
+	<malloc.h>
+	<vcruntime_exception.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\type_traits
+	<yvals_core.h>
+	<xstddef>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vcruntime_exception.h
+	<eh.h>
+	<vcruntime_new.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\eh.h
+	<vadefs.h>
+	<corecrt_terminate.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vcruntime_new.h
+	<vcruntime.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xatomic.h
+	<yvals.h>
+	<intrin0.h>
+	<type_traits>
+	<intrin.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xutility
+	<yvals.h>
+	<climits>
+	<cstdlib>
+	<cstring>
+	<utility>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cstring
+	<yvals.h>
+	<string.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\utility
+	<yvals_core.h>
+	<type_traits>
+	<xstddef>
+	<concepts>
+	<compare>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\concepts
+	<yvals_core.h>
+	<type_traits>
+	<vcruntime_new.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\compare
+	<yvals_core.h>
+	<concepts>
+	<xtr1common>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xpolymorphic_allocator.h
+	<yvals_core.h>
+	<tuple>
+	<type_traits>
+	<utility>
+	<xmemory>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\tuple
+	<yvals_core.h>
+	<new>
+	<type_traits>
+	<xutility>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\string
+	<yvals_core.h>
+	<xstring>
+	<cctype>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xstring
+	<yvals_core.h>
+	<iosfwd>
+	<xmemory>
+	<xpolymorphic_allocator.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\iosfwd
+	<yvals.h>
+	<cstdio>
+	<cstring>
+	<cwchar>
+	<xstddef>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cctype
+	<yvals.h>
+	<ctype.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\iostream
+	<yvals_core.h>
+	<istream>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\istream
+	<yvals_core.h>
+	<ostream>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\ostream
+	<yvals_core.h>
+	<ios>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\ios
+	<yvals_core.h>
+	<xlocnum>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xlocnum
+	<yvals_core.h>
+	<climits>
+	<cmath>
+	<cstdio>
+	<cstdlib>
+	<iterator>
+	<streambuf>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cmath
+	<yvals.h>
+	<cstdlib>
+	<xtr1common>
+	<xutility>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\iterator
+	<yvals_core.h>
+	<iosfwd>
+	<xutility>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\streambuf
+	<yvals_core.h>
+	<xiosbase>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xiosbase
+	<yvals_core.h>
+	<share.h>
+	<system_error>
+	<xlocale>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\system_error
+	<yvals.h>
+	<__msvc_system_error_abi.hpp>
+	<cerrno>
+	<cstdlib>
+	<stdexcept>
+	<xcall_once.h>
+	<xerrc.h>
+	<atomic>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\__msvc_system_error_abi.hpp
+	<yvals_core.h>
+	<stddef.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\cerrno
+	<yvals.h>
+	<errno.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\stdexcept
+	<yvals_core.h>
+	<exception>
+	<xstring>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xcall_once.h
+	<yvals.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xerrc.h
+	<yvals.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\atomic
+	<yvals.h>
+	<stddef.h>
+	<stdint.h>
+	<string.h>
+	<xatomic.h>
+	<xatomic_wait.h>
+	<xthreads.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xatomic_wait.h
+	<yvals.h>
+	<stdlib.h>
+	<xatomic.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xthreads.h
+	<yvals_core.h>
+	<limits.h>
+	<xtimec.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xtimec.h
+	<yvals.h>
+	<time.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xlocale
+	<yvals_core.h>
+	<climits>
+	<cstring>
+	<memory>
+	<typeinfo>
+	<xfacet>
+	<xlocinfo>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\memory
+	<yvals_core.h>
+	<exception>
+	<iosfwd>
+	<type_traits>
+	<typeinfo>
+	<xmemory>
+	<atomic>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\typeinfo
+	<yvals_core.h>
+	<exception>
+	<vcruntime_typeinfo.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\vcruntime_typeinfo.h
+	<vcruntime.h>
+	<vcruntime_exception.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xfacet
+	<yvals.h>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xlocinfo
+	<yvals_core.h>
+	<cstdlib>
+	<xlocinfo.h>
+	<xstddef>
+	<xstring>
+
+1613299446 c:\program files (x86)\microsoft visual studio\2019\community\vc\tools\msvc\14.28.29333\include\xlocinfo.h
+	<yvals.h>
+	<ctype.h>
+	<locale.h>
+	<stdio.h>
+	<wchar.h>
+
+1576091900 d:\everything cb\gameintro\gl\glcorearb.h
+	<windows.h>
+	<KHR/khrplatform.h>
+
+1576087460 d:\everything cb\gameintro\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1566476123 d:\everything cb\gameintro\gl\wglext.h
+	<windows.h>
+

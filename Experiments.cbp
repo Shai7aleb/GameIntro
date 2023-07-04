@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GameIntro" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-march=prescott" />
+					<Add option="-pedantic" />
+					<Add option="-Wall" />
+					<Add option="-m32" />
+					<Add option="-g" />
+					<Add option="-nostdlib" />
+					<Add directory="D:/Everything CB/Libpng/Libpng" />
+				</Compiler>
+				<Linker>
+					<Add option="-m32" />
+					<Add option="-e _WinMain@16 -nostdlib -lgcc" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libkernel32.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libuser32.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libopengl32.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libgdi32.a" />
+					<Add library="D:/Everything CB/Libpng/Libpng/bin/Debug/LodePng.lib" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libmsvcr71.a" />
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/lib/libshell32.a" />
+				</Linker>
+			</Target>
+			<Target title="Test">
+				<Option output="bin/Test/GI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Test/" />
+				<Option type="0" />
+				<Option compiler="msvc10" />
+				<Compiler>
+					<Add option="/MT" />
+					<Add option="/TC" />
+					<Add option="/Gd" />
+					<Add option="/Ox" />
+					<Add option="/W3" />
+					<Add option='/permissive- /GS /TC /analyze- /W3 /Zc:wchar_t /Gm- /O2 /Fd&quot;Debug\vc142.pdb&quot; /Zc:inline /D &quot;_UNICODE&quot; /D &quot;UNICODE&quot; /fp:except- /errorReport:prompt /WX- /Zc:forScope /GR- /Gd /Oy- /MT /FC /nologo  /diagnostics:column' />
+					<Add directory="D:/Everything CB/GameIntro" />
+					<Add directory="D:/Everything CB/Libpng/Libpng" />
+				</Compiler>
+				<Linker>
+					<Add library="kernel32" />
+					<Add library="User32" />
+					<Add library="OpenGL32" />
+					<Add library="Gdi32" />
+					<Add library="shell32" />
+					<Add library="D:/Everything CB/Libpng/Libpng/bin/Test/LodePng.lib" />
+				</Linker>
+			</Target>
+			<Target title="Third">
+				<Option output="bin/Third/GI" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Third/" />
+				<Option type="0" />
+				<Option compiler="bcc" />
+			</Target>
+		</Build>
+		<Unit filename="Camera.c">
+			<Option compilerVar="CC" />
+			<Option compiler="gcc" use="0" buildCommand="$compiler $options -fno-strict-aliasing $includes -c $file -o $object" />
+		</Unit>
+		<Unit filename="Camera.h" />
+		<Unit filename="Icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="Intro.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Intro.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

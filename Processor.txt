@@ -1,0 +1,14 @@
+InputF = open('Input.txt','r')
+OutputF = open('Output.txt','w')
+
+Lines = InputF.readlines()
+
+for i in range(len(Lines)):
+	Lines[i] = Lines[i].split()
+	Lines[i][3] = format(float(Lines[i][3])/255.0,'.6f')
+	Lines[i][4] = format(float(Lines[i][4])/255.0,'.6f')
+	Lines[i][5] = format(float(Lines[i][5])/255.0,'.6f')
+	for x in Lines[i]:
+		OutputF.write(x + 'f')
+		OutputF.write(',')
+OutputF.close()

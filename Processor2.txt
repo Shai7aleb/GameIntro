@@ -1,0 +1,12 @@
+InputF = open('Input.txt','r')
+OutputF = open('Output.txt','w')
+
+Lines = InputF.readlines()
+
+for i in range(len(Lines)):
+	Lines[i] = Lines[i].split()
+	del Lines[i][0]
+	for x in Lines[i]:
+		OutputF.write(x + 'f')
+		OutputF.write(',')
+OutputF.close()
