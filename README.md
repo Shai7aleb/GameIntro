@@ -16,4 +16,8 @@ click on the green run button at the top
 
 Now you should be able to see the animation in action!
 # Demo
-![Gif showing the animation](https://github.com/Shai7aleb/GameIntro/assets/96475434/e7854bd9-1839-459b-97ca-a8f4640a0270)
+![Video Showing the Animation](https://github.com/Shai7aleb/GameIntro/assets/96475434/ed889f20-fe92-406d-8b6e-5bcd020b7a73)
+
+
+
+
